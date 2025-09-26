@@ -1,4 +1,4 @@
-#!/workshop/my-app/.venv/bin/python3
+#!/workshop/cicd_workshop/my-app/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
